@@ -1,0 +1,38 @@
+/*
+
+
+*Mia Moretto
+Class work
+Css-template.css
+*/
+
+/* the universal selector */
+*{margin:0;
+padding:0;}
+
+/* Body attributes here */
+
+
+body{ 
+ border-width: 1px 2px 2px 3px;
+ border-style: dashed; /*dashed line on all sides*/
+ border-color: aquamarine;  
+    
+} 
+h1{
+border: 3px dotted black;
+ padding: 8px 12px 8px 14px;
+margin: 16px;   
+} 
+
+p{
+ border: 3px dotted orange;
+padding: 8px 12px 8px 14px;
+  margin: 18px;     
+} 
+
+main{
+ border: 9px solid gray;
+padding: 12px 14px 12px 14px;
+margin: 20px;   
+}
